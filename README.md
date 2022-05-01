@@ -11,3 +11,6 @@ Wanna run this app localy?
 ## 👀Preview
 ![Screenshot](Rails-friends-list.png)
 ![Screenshot](Rails-friends-auth.png)
+
+## ✔️TODO
+- [ ] Deploy to heroku 
