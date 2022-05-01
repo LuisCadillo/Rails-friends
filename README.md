@@ -1,24 +1,13 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# 💛Rails Friends
+Keep records of all your friends' relevant data with this minimal yet extremely secure rails app
+## ⚙️Features
+- Display your friends' emails, phone numbers and twitter profiles
+- All your data is secured under your own and personal account 
+- If the relationship is over then just destroy all data from that undesirable person 
+## 🚀Build
+Wanna run this app localy?
+1. `rails db:drop db:create db:migrate`
+2. `rails s`
+## 👀Preview
+![Screenshot](Rails-friends-list.png)
+![Screenshot](Rails-friends-auth.png)
